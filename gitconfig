@@ -1,0 +1,23 @@
+# This is Git's per-user configuration file.
+[user]
+	name = pycloudts
+	email = pycloudts@gmail.home
+[credential]
+	helper = osxkeychain
+[core]
+	editor = vim
+	excludesfile = /Users/pycloudts/.gitignore
+[push]
+	default = current
+[color]
+	ui = true
+[init]
+	defaultBranch = main
+[color "branch"]
+	current = blue
+	local = yellow
+	remote = green
+[color "status"]
+	added = yellow
+	changed = green
+	untracked = cyan
