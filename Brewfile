@@ -7,10 +7,10 @@ tap "homebrew/cask-fonts"
 
 brew "fzf"
 brew "ripgrep"
+brew "font-jetbrains-mono-nerd-font" 
 
 cask "alacritty"
 cask "flux"
-cask "homebrew/cask-fonts/font-jetbrains-mono"
 cask "vlc"
 cask "whatsapp"
 cask "telegram-desktop"
