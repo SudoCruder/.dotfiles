@@ -30,4 +30,4 @@ alias gclean='git branch --merged| egrep -v "(^\*|master|staging|develop)" | xar
 # Dummy
 alias shrug="printf '¯\_(ツ)_/¯' | pbcopy"
 alias flipt="printf '(╯°□°)╯︵ ┻━┻' | pbcopy"
-alias fight="printf '(ง'̀-'́)ง' | pbcopy
+alias fight="printf '(ง'̀-'́)ง' | pbcopy"

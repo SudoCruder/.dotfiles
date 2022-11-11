@@ -6,8 +6,8 @@ sync:
 	mkdir -p ~/Sites
 
 	@echo "Symlinking files..."
-	[ -f ~/.zshrc] || ln -s $(PWD)/zshrc ~/.zshrc
-	[ -f ~/.aliases] || ln -s $(PWD)/aliases ~/.aliases
+	[ -f ~/.zshrc ] || ln -s $(PWD)/zshrc ~/.zshrc
+	[ -f ~/.aliases ] || ln -s $(PWD)/aliases ~/.aliases
 	[ -f ~/.vimrc ] || ln -s $(PWD)/vimrc ~/.vimrc
 	[ -f ~/.gitconfig ] || ln -s $(PWD)/gitconfig ~/.gitconfig
 	[ -f ~/.gitignore ] || ln -s $(PWD)/gitignore ~/.gitignore
