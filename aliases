@@ -6,6 +6,7 @@ alias l="ls -la"
 # Navigation
 alias d="cd ~/.dotfiles"
 alias s="cd ~/Sites"
+alias w="cd ~/Sites/workstation"
 
 # Git
 alias ga="git add "
