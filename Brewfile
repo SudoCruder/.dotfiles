@@ -9,6 +9,7 @@ brew "fzf"
 brew "ripgrep"
 brew "font-jetbrains-mono-nerd-font"
 brew "starship"
+brew "nvm"
 
 cask "alacritty"
 cask "flux"

@@ -3,7 +3,8 @@ all: sync
 sync:
 	@echo "Creating folders.."
 	mkdir -p ~/.config/alacritty
-	mkdir -p ~/Sites
+	mkdir ~/Sites
+	mkdir ~/.nvm
 
 	@echo "Symlinking files..."
 	[ -f ~/.zshrc ] || ln -s $(PWD)/zshrc ~/.zshrc
@@ -15,7 +16,7 @@ sync:
 
 	# don't show last login message
 	touch ~/.hushlogin
-	
+
 	git config --global core.excludesfile $HOME/.gitignore
 
 	source ~/.zshrc
