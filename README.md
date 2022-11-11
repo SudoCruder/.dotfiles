@@ -1,7 +1,8 @@
 # .dotfiles
 
 ## Setup git
-`git_setup.sh`
+`chmod +x git_setup.sh`  
+`./git_setup.sh`
 
 
 ## Install homebrew
