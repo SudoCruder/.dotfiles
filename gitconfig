@@ -20,6 +20,6 @@
 [color "status"]
 	added = yellow
 	changed = green
-	untracked = cyan
+	untracked = red
 [url "git@github.com:"]
 	insteadOf = https://github.com/
