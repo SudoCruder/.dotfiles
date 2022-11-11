@@ -6,7 +6,7 @@
 	helper = osxkeychain
 [core]
 	editor = vim
-	excludesfile = /Users/pycloudts/.gitignore
+	excludesfile = OME/.gitignore
 [push]
 	default = current
 [color]
