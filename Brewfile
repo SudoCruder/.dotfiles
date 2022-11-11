@@ -7,7 +7,8 @@ tap "homebrew/cask-fonts"
 
 brew "fzf"
 brew "ripgrep"
-brew "font-jetbrains-mono-nerd-font" 
+brew "font-jetbrains-mono-nerd-font"
+brew "starship"
 
 cask "alacritty"
 cask "flux"
