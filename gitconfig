@@ -1,7 +1,7 @@
 # This is Git's per-user configuration file.
 [user]
-	name = pycloudts
-	email = pycloudts@gmail.home
+	name = sudocruder
+	email = sudocruder@gmail.home
 [credential]
 	helper = osxkeychain
 [core]

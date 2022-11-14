@@ -16,6 +16,8 @@
 ## Install all brew dependencies
 `brew bundle`
 
+## Start services
+`brew services start postgresql`
 
 ## Install Rust
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`

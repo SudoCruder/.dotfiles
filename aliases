@@ -7,6 +7,7 @@ alias l="ls -la"
 alias d="cd ~/.dotfiles"
 alias s="cd ~/Sites"
 alias w="cd ~/Sites/workstation"
+alias wc="cd ~/Sites/workstation/client"
 
 # Git
 alias ga="git add "
